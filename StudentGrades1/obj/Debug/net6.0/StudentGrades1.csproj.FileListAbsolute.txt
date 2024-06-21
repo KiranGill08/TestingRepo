@@ -1,0 +1,14 @@
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\bin\Debug\net6.0\StudentGrades1.exe
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\bin\Debug\net6.0\StudentGrades1.deps.json
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\bin\Debug\net6.0\StudentGrades1.runtimeconfig.json
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\bin\Debug\net6.0\StudentGrades1.dll
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\bin\Debug\net6.0\StudentGrades1.pdb
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.AssemblyInfoInputs.cache
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.AssemblyInfo.cs
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.csproj.CoreCompileInputs.cache
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.dll
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\refint\StudentGrades1.dll
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.pdb
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\StudentGrades1.genruntimeconfig.cache
+C:\Users\Kiran Gill\source\repos\StudentGrades1\StudentGrades1\obj\Debug\net6.0\ref\StudentGrades1.dll
